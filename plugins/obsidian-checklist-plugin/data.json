@@ -1,0 +1,13 @@
+{
+  "todoPageName": "todo",
+  "showChecked": true,
+  "groupBy": "page",
+  "sortDirection": "old->new",
+  "ignoreFiles": "daily_template",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "Templates/daily_template.md",
+    "Timestamps/2021-08-05.md"
+  ]
+}

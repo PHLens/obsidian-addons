@@ -1,0 +1,209 @@
+{
+  "recentFiles": [
+    {
+      "basename": "算法题的问题模式 MOC",
+      "path": "Umami/算法题的问题模式 MOC.md"
+    },
+    {
+      "basename": "C++ MOC",
+      "path": "Umami/C++ MOC.md"
+    },
+    {
+      "basename": "GTD",
+      "path": "GTD.md"
+    },
+    {
+      "basename": "高性能计算面经",
+      "path": "Umami/高性能计算面经.md"
+    },
+    {
+      "basename": "面试 MOC",
+      "path": "Umami/面试 MOC.md"
+    },
+    {
+      "basename": "确定对象使用前已被初始化",
+      "path": "Umami/确定对象使用前已被初始化.md"
+    },
+    {
+      "basename": "尽可能使用const",
+      "path": "Umami/尽可能使用const.md"
+    },
+    {
+      "basename": "AI边云协同Sedna",
+      "path": "Umami/AI边云协同Sedna.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox.md"
+    },
+    {
+      "basename": "Note Taking",
+      "path": "Umami/Note Taking.md"
+    },
+    {
+      "basename": "LYT管理系统",
+      "path": "Umami/LYT管理系统.md"
+    },
+    {
+      "basename": "_Start Here",
+      "path": "_Start Here.md"
+    },
+    {
+      "basename": "力扣51.N 皇后",
+      "path": "Umami/力扣51.N 皇后.md"
+    },
+    {
+      "basename": "搜索问题",
+      "path": "Umami/搜索问题.md"
+    },
+    {
+      "basename": "Obsidian使用基础",
+      "path": "Umami/Obsidian使用基础.md"
+    },
+    {
+      "basename": "Drawing 2021-08-31 17.29.56.excalidraw",
+      "path": "Excalidraw/Drawing 2021-08-31 17.29.56.excalidraw.md"
+    },
+    {
+      "basename": "力扣200.岛屿数量",
+      "path": "Umami/力扣200.岛屿数量.md"
+    },
+    {
+      "basename": "v2ray工具",
+      "path": "Umami/v2ray工具.md"
+    },
+    {
+      "basename": "LYT for course study",
+      "path": "Umami/LYT for course study.md"
+    },
+    {
+      "basename": "剑指Offer II 074. 合并区间",
+      "path": "Umami/剑指Offer II 074. 合并区间.md"
+    },
+    {
+      "basename": "合并区间",
+      "path": "Umami/合并区间.md"
+    },
+    {
+      "basename": "其他",
+      "path": "Umami/其他.md"
+    },
+    {
+      "basename": "力扣8.字符串转换整数 (atoi)",
+      "path": "Umami/力扣8.字符串转换整数 (atoi).md"
+    },
+    {
+      "basename": "剑指Offer 20. 表示数值的字符串",
+      "path": "Umami/剑指Offer 20. 表示数值的字符串.md"
+    },
+    {
+      "basename": "力扣46.全排列",
+      "path": "Umami/力扣46.全排列.md"
+    },
+    {
+      "basename": "剑指Offer 38.字符串的排列",
+      "path": "Umami/剑指Offer 38.字符串的排列.md"
+    },
+    {
+      "basename": "力扣208.实现 Trie (前缀树)",
+      "path": "Umami/力扣208.实现 Trie (前缀树).md"
+    },
+    {
+      "basename": "人脸项目训练部署 MOC",
+      "path": "Umami/人脸项目训练部署 MOC.md"
+    },
+    {
+      "basename": "力扣28.实现 strStr()",
+      "path": "Umami/力扣28.实现 strStr().md"
+    },
+    {
+      "basename": "数学",
+      "path": "Umami/数学.md"
+    },
+    {
+      "basename": "剑指Offer 16. 数值的整数次方",
+      "path": "Umami/剑指Offer 16. 数值的整数次方.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "Umami/二分查找.md"
+    },
+    {
+      "basename": "剑指Offer II 072. 求平方根",
+      "path": "Umami/剑指Offer II 072. 求平方根.md"
+    },
+    {
+      "basename": "力扣2.两数相加",
+      "path": "Umami/力扣2.两数相加.md"
+    },
+    {
+      "basename": "力扣143.重排链表",
+      "path": "Umami/力扣143.重排链表.md"
+    },
+    {
+      "basename": "双指针和快慢指针",
+      "path": "Umami/双指针和快慢指针.md"
+    },
+    {
+      "basename": "剑指Offer II 021. 删除链表的倒数第 n 个结点",
+      "path": "Umami/剑指Offer II 021. 删除链表的倒数第 n 个结点.md"
+    },
+    {
+      "basename": "力扣92.反转链表 II",
+      "path": "Umami/力扣92.反转链表 II.md"
+    },
+    {
+      "basename": "力扣25. K 个一组翻转链表",
+      "path": "Umami/力扣25. K 个一组翻转链表.md"
+    },
+    {
+      "basename": "剑指Offer II 024. 反转链表",
+      "path": "Umami/剑指Offer II 024. 反转链表.md"
+    },
+    {
+      "basename": "力扣315.计算右侧小于当前元素的个数",
+      "path": "Umami/力扣315.计算右侧小于当前元素的个数.md"
+    },
+    {
+      "basename": "树状数组",
+      "path": "Umami/树状数组.md"
+    },
+    {
+      "basename": "AI边云协同框架",
+      "path": "Umami/AI边云协同框架.md"
+    },
+    {
+      "basename": "动态规划",
+      "path": "Umami/动态规划.md"
+    },
+    {
+      "basename": "深度学习 MOC",
+      "path": "Umami/深度学习 MOC.md"
+    },
+    {
+      "basename": "CNN-basic",
+      "path": "Umami/CNN-basic.md"
+    },
+    {
+      "basename": "力扣300.最长递增子序列",
+      "path": "Umami/力扣300.最长递增子序列.md"
+    },
+    {
+      "basename": "贪心",
+      "path": "Umami/贪心.md"
+    },
+    {
+      "basename": "力扣5.最长回文子串",
+      "path": "Umami/力扣5.最长回文子串.md"
+    },
+    {
+      "basename": "leetcode_template",
+      "path": "Templates/leetcode_template.md"
+    }
+  ],
+  "omittedPaths": [
+    "Bin/",
+    "Timestamps/"
+  ],
+  "maxLength": null
+}

@@ -1,0 +1,386 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "AnKindle-20180430": "",
+      "AnKindleClipping-Basic": "",
+      "AnKindleClipping-Cloze": "",
+      "Anki干货铺-iOS原句划词助手模板(v1.1)": "",
+      "Basic": "",
+      "Basic-1284e": "",
+      "Basic-19cb2": "",
+      "Basic-d0c54": "",
+      "Cloze": "",
+      "Code": "",
+      "Image Occlusion Enhanced": "",
+      "IRead2": "",
+      "KindleMate 学习": "",
+      "MarginNote3New": "",
+      "MarginNote3New-87434": "",
+      "MonokaiChoice--1.0": "",
+      "MonokaiCloze-Radios": "",
+      "ODH": "",
+      "UVBasic-English": "",
+      "划词助手Antimoon模板": "",
+      "基本": "",
+      "基础": "",
+      "基础 （输入答案）": "",
+      "基础-4bf48": "",
+      "基础-a7e93": "",
+      "基础的（和相反的卡片）": "",
+      "基础（任意相反的卡片）": "",
+      "填空题": "",
+      "日记专用模板": "",
+      "考研英语真题助手模板": "",
+      "英语真题助手模板(单词)": "",
+      "英语真题助手模板(笔记)": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "AnKindle-20180430": "stem",
+      "AnKindleClipping-Basic": "Clipping",
+      "AnKindleClipping-Cloze": "Clipping",
+      "Anki干货铺-iOS原句划词助手模板(v1.1)": "sentence",
+      "Basic": "问题",
+      "Basic-1284e": "Front",
+      "Basic-19cb2": "Front",
+      "Basic-d0c54": "问题",
+      "Cloze": "文字",
+      "Code": "ID",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "IRead2": "Text",
+      "KindleMate 学习": "单词",
+      "MarginNote3New": "Front",
+      "MarginNote3New-87434": "Front",
+      "MonokaiChoice--1.0": "Question",
+      "MonokaiCloze-Radios": "Question",
+      "ODH": "expression",
+      "UVBasic-English": "英语单词",
+      "划词助手Antimoon模板": "单词",
+      "基本": "Front",
+      "基础": "正面",
+      "基础 （输入答案）": "正面",
+      "基础-4bf48": "正面",
+      "基础-a7e93": "正面",
+      "基础的（和相反的卡片）": "正面",
+      "基础（任意相反的卡片）": "正面",
+      "填空题": "文字",
+      "日记专用模板": "日期",
+      "考研英语真题助手模板": "expression",
+      "英语真题助手模板(单词)": "expression",
+      "英语真题助手模板(笔记)": "topic"
+    },
+    "CONTEXT_FIELDS": {
+      "Basic": "问题"
+    },
+    "FOLDER_DECKS": {
+      "Bin": "",
+      "Scripts": "",
+      "Sources": "",
+      "Templates": "",
+      "Timestamps": "",
+      "Umami": "",
+      "Bin/Img": "",
+      "Bin/personal": "",
+      "Sources/project": "",
+      "Timestamps/zk_card": "",
+      "Bin/personal/thoughts": "",
+      "Sources/project/CSE599W- assignment": "",
+      "Sources/project/CSE599W- assignment/assignment1-2018": "",
+      "Sources/project/CSE599W- assignment/assignment2-2018": "",
+      "Sources/project/CSE599W- assignment/assignment1-2018/img": ""
+    },
+    "FOLDER_TAGS": {
+      "Bin": "",
+      "Scripts": "",
+      "Sources": "",
+      "Templates": "",
+      "Timestamps": "",
+      "Umami": "",
+      "Bin/Img": "",
+      "Bin/personal": "",
+      "Sources/project": "",
+      "Timestamps/zk_card": "",
+      "Bin/personal/thoughts": "",
+      "Sources/project/CSE599W- assignment": "",
+      "Sources/project/CSE599W- assignment/assignment1-2018": "",
+      "Sources/project/CSE599W- assignment/assignment2-2018": "",
+      "Sources/project/CSE599W- assignment/assignment1-2018/img": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {
+    "AnKindle-20180430": [
+      "stem",
+      "word",
+      "lang",
+      "creation_tm",
+      "usage",
+      "title",
+      "authors",
+      "mdx_dict",
+      "mdx_name",
+      "id"
+    ],
+    "AnKindleClipping-Basic": [
+      "Clipping",
+      "Note",
+      "Book",
+      "Author"
+    ],
+    "AnKindleClipping-Cloze": [
+      "Clipping",
+      "Note",
+      "Book",
+      "Author"
+    ],
+    "Anki干货铺-iOS原句划词助手模板(v1.1)": [
+      "sentence",
+      "collins1",
+      "collins2",
+      "collins3",
+      "collins4",
+      "collins5",
+      "公众号"
+    ],
+    "Basic": [
+      "问题",
+      "《》",
+      "答案",
+      "评论",
+      "举例",
+      "拓展"
+    ],
+    "Basic-1284e": [
+      "Front",
+      "Back",
+      "Name",
+      "Number",
+      "Difficulty "
+    ],
+    "Basic-19cb2": [
+      "Front",
+      "mp3",
+      "Back"
+    ],
+    "Basic-d0c54": [
+      "问题",
+      "《》",
+      "答案",
+      "编码",
+      "例子",
+      "拓展"
+    ],
+    "Cloze": [
+      "文字",
+      "《》",
+      "编码",
+      "例子",
+      "拓展"
+    ],
+    "Code": [
+      "ID",
+      "TitleSlug",
+      "Title",
+      "Content",
+      "Difficulty",
+      "CodeSnippet",
+      "Code"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "IRead2": [
+      "Text",
+      "《》"
+    ],
+    "KindleMate 学习": [
+      "单词",
+      "原型",
+      "用法",
+      "释义",
+      "发音"
+    ],
+    "MarginNote3New": [
+      "Front",
+      "ClozeFront",
+      "TextFront",
+      "Back",
+      "ClozeBack",
+      "TextBack",
+      "Remarks",
+      "MNLink",
+      "MNMindMap"
+    ],
+    "MarginNote3New-87434": [
+      "Front",
+      "ClozeFront",
+      "TextFront",
+      "Back",
+      "ClozeBack",
+      "TextBack",
+      "Remarks",
+      "MNLink",
+      "MNMindMap"
+    ],
+    "MonokaiChoice--1.0": [
+      "Question",
+      "Options",
+      "Answer",
+      "Extra"
+    ],
+    "MonokaiCloze-Radios": [
+      "Question",
+      "Options",
+      "Extra"
+    ],
+    "ODH": [
+      "expression",
+      "reading",
+      "extrainfo",
+      "glossary",
+      "sentence",
+      "url",
+      "audio"
+    ],
+    "UVBasic-English": [
+      "英语单词",
+      "英美音标",
+      "中文释义",
+      "vocab简明",
+      "vocab扩展",
+      "真题原句",
+      "柯林斯星级",
+      "柯林斯解释",
+      "来源",
+      "英语发音"
+    ],
+    "划词助手Antimoon模板": [
+      "单词",
+      "音标",
+      "释义",
+      "笔记",
+      "例句",
+      "url",
+      "发音"
+    ],
+    "基本": [
+      "Front",
+      "Pron",
+      "Back"
+    ],
+    "基础": [
+      "正面",
+      "背面"
+    ],
+    "基础 （输入答案）": [
+      "正面",
+      "背面"
+    ],
+    "基础-4bf48": [
+      "正面",
+      "背面"
+    ],
+    "基础-a7e93": [
+      "正面",
+      "背面"
+    ],
+    "基础的（和相反的卡片）": [
+      "正面",
+      "背面"
+    ],
+    "基础（任意相反的卡片）": [
+      "正面",
+      "背面",
+      "反向添加"
+    ],
+    "填空题": [
+      "文字",
+      "额外的"
+    ],
+    "日记专用模板": [
+      "日期",
+      "☺我为什么要写日记？",
+      "☺我今天的目标是什么？",
+      "☺我的终极人生目标是什么？",
+      "☺今天最重要的一件事是什么？",
+      "☺我今天如何与周围的人相处？",
+      "☺我今天要学哪些新知识？",
+      "☺我今天要有怎样的心情？",
+      "☺我今天怎样比昨天做得更好？早安！",
+      "哪一年目标",
+      "年目标描述",
+      "几月目标",
+      "月目标描述",
+      "清单",
+      "输入输出",
+      "成功日记",
+      "生活状态（运动/精力/状态）",
+      "社交（家庭/朋友/社群/人脉）",
+      "财务检视",
+      "学习时间时长",
+      "学习时间反馈",
+      "学习时间改进",
+      "浪费时间时长",
+      "浪费时间反馈",
+      "浪费时间改进",
+      "睡眠时间时长",
+      "睡眠时间反馈",
+      "睡眠时间改进",
+      "其他可利用时间时长",
+      "其他可利用时间反馈",
+      "其他可利用时间改进",
+      "思考总结",
+      "主题记录—今日的事件要闻"
+    ],
+    "考研英语真题助手模板": [
+      "expression",
+      "reading",
+      "extrainfo",
+      "definitions",
+      "sentences"
+    ],
+    "英语真题助手模板(单词)": [
+      "expression",
+      "reading",
+      "extrainfo",
+      "definitions",
+      "sentence",
+      "note"
+    ],
+    "英语真题助手模板(笔记)": [
+      "topic",
+      "note"
+    ]
+  }
+}
